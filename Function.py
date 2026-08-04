@@ -1,3 +1,5 @@
+# Creation Date: 2024.04.04. Thu, 22:16:08
+# Modified Date: 2024.04.04. Thu, 22:17:20
 import cv2
 
 def Threshold(image):
