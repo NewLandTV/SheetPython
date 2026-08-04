@@ -33,6 +33,12 @@ pip install -r requirements.txt
 python SheetMusic.py
 ```
 
+# 출처(References)
+
+| 작곡가 | 곡명 |
+| :-: | :-: |
+| [뮤파이(前 NewLand Music Artist)](https://www.youtube.com/@MYUPIE) | [Flag Destroy](https://www.youtube.com/watch?v=i9liHQsiRjA) |
+
 # 링크(Links)
 
 * [장경혁tv(JkhTV YouTube)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
